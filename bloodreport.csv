@@ -1,0 +1,16 @@
+Test Name,Status,Value,Unit,Biological Reference Interval
+Haemoglobin,L,9.5,G%,13.00 - 17.00
+RBC (Electrical Impedance),L,3.55,millions/cumm,4.50 - 5.50
+PCV(Calc),L,29.50,%,40.00 - 50.00
+MCV (RBC histogram),Normal,83.1,fL,83.00 - 101.00
+MCH (Calc),L,26.7,pg,27.00 - 32.00
+MCHC (Calc),Normal,32.1,gm/dL,31.50 - 34.50
+RDW (RBC histogram),H,20.50,%,11.00 - 16.00
+Count,Normal,5510,/µL,4000.00 - 10000.00
+Neutrophil,Normal,65.0,%,40.00 - 70.00
+Lymphocyte,Normal,24.0,%,20.00 - 40.00
+Eosinophil,Normal,3.0,%,1.00 - 6.00
+Monocytes,Normal,8.0,%,2.00 - 10.00
+Basophil,Normal,0.0,%,0.00 - 2.00
+Count,Normal,301000,/µL,150000.00 - 410000.00
+Creatinine,Normal,0.70,mg/dL,0.50 - 1.50
